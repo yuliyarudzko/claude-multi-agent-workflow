@@ -1,0 +1,11 @@
+{
+  "name": "api-quality",
+  "version": "0.1.0",
+  "description": "Code-quality workflow for Express APIs: parallel review + coverage mapping, then a test-writer that closes the gaps, with a lint-on-edit hook.",
+  "author": {
+    "name": "Yuliya Rudzko"
+  },
+  "repository": "https://github.com/yuliyarudzko/claude-multi-agent-workflow",
+  "license": "MIT",
+  "keywords": ["code-quality", "review", "testing", "express", "subagents"]
+}

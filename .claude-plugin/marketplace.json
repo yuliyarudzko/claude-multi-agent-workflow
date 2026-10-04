@@ -1,0 +1,18 @@
+{
+  "name": "rudzko-tools",
+  "owner": {
+    "name": "Yuliya Rudzko"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Yuliya Rudzko."
+  },
+  "plugins": [
+    {
+      "name": "api-quality",
+      "source": "./",
+      "description": "Parallel code review + coverage mapping, then a test-writer that closes the gaps, plus a lint-on-edit hook.",
+      "version": "0.1.0",
+      "category": "development"
+    }
+  ]
+}
